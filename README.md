@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Apple-clone
->>>>>>> 2f1743d7d8a432079bfbf1c97dece24cff183f89
+link apple-clone-three-alpha.vercel.app
